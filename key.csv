@@ -1,0 +1,6 @@
+,dormir,noche,depresión,ansiedad,llorar,mundo,tiempo,quiero,cansada,ganas,odio,depresion,cosas,vacio,triste,siento,vida,mierda
+key_rake,1,0,1,1,1,0,0,1,0,1,1,0,0,0,0,1,1,1
+key_yake ,1,0,1,1,1,0,0,1,0,1,1,0,0,0,0,1,1,1
+key_multipartiteRank,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,1,1
+key_topicrank,0,1,0,0,0,1,1,0,1,1,0,1,1,1,1,0,0,1
+key_tfidf,1,0,0,0,1,0,0,1,1,1,1,1,0,0,0,1,1,1
